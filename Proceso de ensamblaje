@@ -1,0 +1,5 @@
+crear archivo de codigo fuente en blic de notas
+guardar con la extensipon asm y configuracion UTF-8
+instalar el enmulador para ensamblador (TASM)
+abrir el enmulador
+utilizar el comando tase <nombre del archivo con extension .asm>
