@@ -30,7 +30,7 @@ Writeln ('¿Cuantos anios desea calcular? '); readln (aos);
         suma:=suma+salario;
         cont:=cont+1;
         end;
-        writeln('Su salario a los  ',aos,' es ' suma:0:3);
+        writeln('Su salario a los  ',aos,' es ', suma:0:3);
 	readkey;
 
 end.
